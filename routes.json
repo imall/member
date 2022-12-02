@@ -1,0 +1,161 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_7d6f590e"
+  },
+  {
+    "path": "/member",
+    "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member.vue",
+    "chunkName": "pages/member",
+    "children": [
+      {
+        "name": "member",
+        "path": "",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\index.vue",
+        "chunkName": "pages/member/index",
+        "_name": "_1a6922c6"
+      },
+      {
+        "name": "member-addValue",
+        "path": "addValue",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\addValue.vue",
+        "chunkName": "pages/member/addValue",
+        "_name": "_00f852d5"
+      },
+      {
+        "path": "appointment",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\appointment.vue",
+        "chunkName": "pages/member/appointment",
+        "children": [
+          {
+            "name": "member-appointment",
+            "path": "",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\appointment\\\\index.vue",
+            "chunkName": "pages/member/appointment/index",
+            "_name": "_19d03ed0"
+          },
+          {
+            "name": "member-appointment-check",
+            "path": "check",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\appointment\\\\check.vue",
+            "chunkName": "pages/member/appointment/check",
+            "_name": "_3afb91ce"
+          },
+          {
+            "name": "member-appointment-selectDate",
+            "path": "selectDate",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\appointment\\\\selectDate.vue",
+            "chunkName": "pages/member/appointment/selectDate",
+            "_name": "_f4703218"
+          },
+          {
+            "name": "member-appointment-selectService",
+            "path": "selectService",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\appointment\\\\selectService.vue",
+            "chunkName": "pages/member/appointment/selectService",
+            "_name": "_dd10f742"
+          }
+        ],
+        "_name": "_1e8b7eac"
+      },
+      {
+        "name": "member-appointmentRecord",
+        "path": "appointmentRecord",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\appointmentRecord.vue",
+        "chunkName": "pages/member/appointmentRecord",
+        "_name": "_8c00b9ca"
+      },
+      {
+        "name": "member-consumption",
+        "path": "consumption",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\consumption.vue",
+        "chunkName": "pages/member/consumption",
+        "_name": "_65d27aa6"
+      },
+      {
+        "name": "member-coupon",
+        "path": "coupon",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\coupon\\\\index.vue",
+        "chunkName": "pages/member/coupon/index",
+        "_name": "_5149b792"
+      },
+      {
+        "path": "info",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\info.vue",
+        "chunkName": "pages/member/info",
+        "children": [
+          {
+            "name": "member-info",
+            "path": "",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\info\\\\index.vue",
+            "chunkName": "pages/member/info/index",
+            "_name": "_9a48b922"
+          },
+          {
+            "name": "member-info-edit",
+            "path": "edit",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\info\\\\edit.vue",
+            "chunkName": "pages/member/info/edit",
+            "_name": "_45b6d5fd"
+          }
+        ],
+        "_name": "_7f47f1b3"
+      },
+      {
+        "path": "point",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\point.vue",
+        "chunkName": "pages/member/point",
+        "children": [
+          {
+            "name": "member-point",
+            "path": "",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\point\\\\index.vue",
+            "chunkName": "pages/member/point/index",
+            "_name": "_0d89bbc7"
+          }
+        ],
+        "_name": "_ffa3e74a"
+      },
+      {
+        "path": "setting",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\setting.vue",
+        "chunkName": "pages/member/setting",
+        "children": [
+          {
+            "name": "member-setting",
+            "path": "",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\setting\\\\index.vue",
+            "chunkName": "pages/member/setting/index",
+            "_name": "_362aa3c7"
+          },
+          {
+            "name": "member-setting-edit",
+            "path": "edit",
+            "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\setting\\\\edit.vue",
+            "chunkName": "pages/member/setting/edit",
+            "_name": "_324b2ab6"
+          }
+        ],
+        "_name": "_5542245b"
+      },
+      {
+        "name": "member-ticket",
+        "path": "ticket",
+        "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\member\\\\ticket\\\\index.vue",
+        "chunkName": "pages/member/ticket/index",
+        "_name": "_0b80e591"
+      }
+    ],
+    "_name": "_4b563e45"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\GitHub\\\\JP_work\\\\ML\\\\MLJP_CWeb\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_98709412"
+  }
+]
